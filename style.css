@@ -1,0 +1,19 @@
+#center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.image {
+    height: 191px;
+}
+
+.header {
+    height: 60px;
+}
+
+.cross {
+    border: none;
+    background-color: white;
+}
